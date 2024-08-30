@@ -1,2 +1,2 @@
 # docker-swarm-autoscaling
-Autoscaling docker swarm, because Kubernetes is better.
+Autoscaling docker swarm, because else it'll drive me mad with the Kubernetes comparisons...
